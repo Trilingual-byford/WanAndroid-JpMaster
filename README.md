@@ -16,11 +16,13 @@
 [8]:http://www.apache.org/licenses/LICENSE-2.0
     
     
-## 简介
-本项目主要使用[玩Android](http://www.wanandroid.com/blog/show/2)网站提供的API, 并实现其主要功能；项目基于 `Material Design` + `MVP` + `dagger2` + `RxJava` + `Retrofit` + `Glide` + `greendao` 等架构进行设计实现，MVP模式中的Model使用`DataManager`模式统一管理，代码结构清晰，功能详实，是一个不错的Android应用开发学习参考项目。项目会持续更新维护，同时也欢迎大家提问题和建议，使项目更加完善。
+## プロフィール
+このプロジェクトは主に[Android](http://www.wanandroid.com/blog/show/2)のWebサイトで提供されているAPIを使用して、主要な機能を実現します。該当プロジェクトは `Material Design` + `MVP` + `dagger2` + `RxJava` + `Retrofit` + `Glide` + `greendao`に基づいています。
+MVPモデルにおけるModelはDataManagerスキーマを用いて統一管理し、コード構造が明確であり、機能が詳細である。優秀なAndroidアプリケーション開発学習の参考プログラムです。
+プロジェクトは継続的にメンテナンスを更新し、質問や提案をしたり、プロジェクトを改善したりすることを歓迎します。
 
 
-## 应用截图
+## スクリーンショット
 
 <div align="center">
 <img src="https://github.com/ForgetSky/ForgetSkyWanAndroid/blob/master/screenshots/Screenshot_01.jpg" width=23%> <img src="https://github.com/ForgetSky/ForgetSkyWanAndroid/blob/master/screenshots/Screenshot_02.jpg" width=23%> <img src="https://github.com/ForgetSky/ForgetSkyWanAndroid/blob/master/screenshots/Screenshot_03.jpg" width=23%> <img src="https://github.com/ForgetSky/ForgetSkyWanAndroid/blob/master/screenshots/Screenshot_04.jpg" width=23%>
@@ -41,7 +43,7 @@
 ## API
 [**玩 Android 开放 API**](http://www.wanandroid.com/blog/show/2)
 
-## 主要开源框架
+## 主なオープンソースフレームワーク
 
  - [dagger](https://github.com/google/dagger)
  - [RxJava](https://github.com/ReactiveX/RxJava)
@@ -60,15 +62,15 @@
  - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
  - [RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
-## APK下载
+## APKダウンロード
 
 - [点击下载apk](https://github.com/ForgetSky/ForgetSkyWanAndroid/releases/download/v1.1.3/WanAndroid-V1.1.3-release.apk)
 
-- 扫描二维码下载(由于微信屏蔽了扫描直接下载，请使用其他工具扫描下载)
+- QRコードをスキャンしてダウンロードする
 
 	![](./screenshots/qr_code.png)
 
-## 版本更新
+## バージョンの更新
 
 **[CHANGELOG](CHANGELOG.md)**
 
