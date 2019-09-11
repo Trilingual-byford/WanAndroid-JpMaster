@@ -64,7 +64,7 @@ MVPモデルにおけるModelはDataManagerスキーマを用いて統一管理�
 
 ## APKダウンロード
 
-- [点击下载apk](https://github.com/ForgetSky/ForgetSkyWanAndroid/releases/download/v1.1.3/WanAndroid-V1.1.3-release.apk)
+- [クリックすると、apkをダウンロードできます](https://github.com/ForgetSky/ForgetSkyWanAndroid/releases/download/v1.1.3/WanAndroid-V1.1.3-release.apk)
 
 - QRコードをスキャンしてダウンロードする
 
