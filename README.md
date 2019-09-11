@@ -41,7 +41,7 @@ MVPモデルにおけるModelはDataManagerスキーマを用いて統一管理�
 </div>
 
 ## API
-[**玩 Android 开放 API**](http://www.wanandroid.com/blog/show/2)
+[**玩 Android 公開 API**](http://www.wanandroid.com/blog/show/2)
 
 ## 主なオープンソースフレームワーク
 
